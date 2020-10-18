@@ -1,5 +1,5 @@
 """
-Ex 012 make an algorithm that reads the price of a product and shows it with 5% discount
+Ex 012 - make an algorithm that reads the price of a product and shows it with 5% discount
 
 """
 

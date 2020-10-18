@@ -1,3 +1,7 @@
+"""
+Ex 07 -Develop a program that reads two grade of a student, calculate and shows it the mean
+"""
+
 print('Student average')
 print('-' * 30)
 

@@ -1,3 +1,7 @@
+"""
+Ex 04 - Make a program that reads something on the keyboard and shows on the screen its primitive type and some information about it
+"""
+
 print('Dissecting variables')
 print('-' * 30)
 

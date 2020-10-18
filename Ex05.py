@@ -1,3 +1,7 @@
+"""
+Ex 05 - Make a program that reads an integer and shows on the screen its successor and predecessor
+"""
+
 print('successor and predecessor')
 print('-' * 30)
 n = int(input('Enter a number: '))

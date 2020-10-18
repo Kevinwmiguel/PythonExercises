@@ -1,3 +1,7 @@
+"""
+Ex 03 - Create a program that reads two numbers and shows the sum between them
+"""
+
 print('Sum two integers')
 print('-' * 30)
 

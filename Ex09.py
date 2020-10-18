@@ -1,3 +1,7 @@
+""""
+Ex 09 - Make a program that reads an integer and shows it on the screen its multiplication table
+"""
+
 print('Multiplication table')
 print('-' * 30)
 

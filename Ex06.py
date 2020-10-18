@@ -1,3 +1,6 @@
+"""
+Ex 06 - Create an algorithm that reads a integer and shows it Double, Triple and the Square root.
+"""
 print('Double, Triple and Square root ')
 print('-' * 30)
 

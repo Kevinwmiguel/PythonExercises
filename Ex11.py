@@ -1,8 +1,16 @@
+"""
+Ex 11 - Make a algorithm that reads the wall's height and width in meters, calculate its area and how many liters ink is necessary to paint it, knowing that each liter of ink can paint 2m² of area
+"""
+
 print('calculate the paint needed to paint the wall: ')
 print('-=' * 30)
 
-h = float(input('Enter height: '))
-w = float(input('Enter the width: '))
+h = input('Enter height: ').replace(',','.')
+w = input('Enter the width: ').replace(',','.')
+
+h = float(h)
+w = float(w)
+
 area = h * w
 ink = area / 2
 

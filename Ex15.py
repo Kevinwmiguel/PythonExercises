@@ -1,5 +1,5 @@
 """
-Write a program that asks how many KM a rental car has driven and how many days it has been rented. Calculate the price to pay, knowing that the car costs 60 a day and 0.15 per km driven
+Ex 015 - Write a program that asks how many KM a rental car has driven and how many days it has been rented. Calculate the price to pay, knowing that the car costs 60 a day and 0.15 per km driven
 """
 
 d = int(input('Enter the number of days: '))

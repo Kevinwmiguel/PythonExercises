@@ -1,3 +1,7 @@
+"""
+Ex 08 - Write a program that asks for a value in meters, convert it and write it in some other measures
+
+"""
 print('Converter to measurement')
 
 #print a character '-' 30 times on the screen to do a line
