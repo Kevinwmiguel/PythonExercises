@@ -1,5 +1,5 @@
 """
-Ex 23 - Make a program that reads a number from 0 to 9999 and shows each of its separate digits on the screen:
+Ex 23 - Make a program that reads a number from 0 to 9999 and shows each of its separate digits on the display:
 """
 
 n = int(input('Type a number between 0 until 9999: '))

@@ -1,5 +1,5 @@
 """
-Ex 018 - Make a program that reads any angle and shows on the screen the sine, cosine and tangent value of that angle
+Ex 018 - Make a program that reads any angle and shows on the display the sine, cosine and tangent value of that angle
 """
 
 print('Sine, Cosine and Tangent')

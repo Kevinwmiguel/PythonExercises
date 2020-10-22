@@ -1,5 +1,5 @@
 """
-Ex 016 - Create a program that reads any float from the keyboard and shows it on the screen its entire portion
+Ex 016 - Create a program that reads any float from the keyboard and shows it on the display its entire portion
 """
 
 #import a library (module) math.
