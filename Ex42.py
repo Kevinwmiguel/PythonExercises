@@ -7,14 +7,19 @@ Ex 42 - Develop a logic that reads a person's weight and height, calculates the 
 - over 40: morbid obesity
 
 """
+# -------------------- Header --------------------
 print('-=' * 15)
 print('BMI ')
 print('-=' * 15)
 
+#  -------------------- input zone --------------------
 a = float(input('Enter your height:'))
 p = float(input('Enter your weight: '))
 
+# var created to calculate the BMI
 BMI = p / (pow(a, 2))
+
+# Conditional to see the right place of the person on the table
 if BMI < 18.4:
     print('underweight')
 elif BMI >= 18.5 and BMI == 24.9:
