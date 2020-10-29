@@ -18,4 +18,4 @@ print('-' * 30)
 
 print(f'The the student chosen was {chosen_one}')
 
-input()
+input('Enter to exit')

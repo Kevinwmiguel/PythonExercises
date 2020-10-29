@@ -12,4 +12,4 @@ print(f'dozen:, {d}')
 print(f'Hundred, {c}')
 print(f'thousands, {m}')
 
-input()
+input('Enter to exit')

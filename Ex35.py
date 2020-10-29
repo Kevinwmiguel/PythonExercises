@@ -23,4 +23,4 @@ else:
     else:
         print('The triangle is Scalene')
 
-input()
+input('Enter to exit')

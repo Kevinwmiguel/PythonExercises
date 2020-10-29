@@ -8,4 +8,4 @@ f = (1.8 * c) + 32
 
 print(f'°C{c:.2f} to fahrenheit goes to {f:.2f}°F')
 
-input()
+input('Enter to exit')

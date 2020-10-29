@@ -8,4 +8,4 @@ day = d * 60
 kmr = 0.15 * km
 print(f'The total amount to be paid is {kmr+day:.2f}')
 
-input()
+input('Enter to exit')

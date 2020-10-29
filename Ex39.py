@@ -18,4 +18,4 @@ else:
     af =  aa - a
     print(f"{af - 18} It's past time to join the army: ")
 
-input()
+input('Enter to exit')

@@ -8,4 +8,4 @@ ult = name.rfind(' ')
 print(f'Your first name is: {name[:pri]}')
 print(f'Your last name is: {name[ult:]}')
 
-input()
+input('Enter to exit')

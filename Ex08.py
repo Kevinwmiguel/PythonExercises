@@ -16,4 +16,4 @@ print(f'{m * 10} dm')
 print(f'{m * 100} cm')
 print(f'{m * 1000} mm')
 
-input()
+input('Enter to exit')

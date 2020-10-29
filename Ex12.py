@@ -11,4 +11,4 @@ pd = pp - (pp / 100) * 5
 print('-' * 50)
 print(f"The product price was {pp:.2f}, on promotion of 5% will cost {pd:.2f}")
 
-input()
+input('Enter to exit')

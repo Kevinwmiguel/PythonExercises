@@ -13,4 +13,4 @@ print(f'Your first name have {len(div1[0])} letters')
 n = n.replace(" ","")
 print(f'Your full name have :{len(n)} letters')
 
-input()
+input('Enter to exit')

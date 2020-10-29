@@ -25,4 +25,4 @@ while extraterms != 0:
     count = 0
     terms = extraterms
 
-input()
+input('Enter to exit')

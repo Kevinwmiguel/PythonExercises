@@ -26,4 +26,4 @@ for c in range(10, -1, -1):
 # -------------------- Output zone --------------------
 print('\033[4;32m❋!!Happy New Year!!!❋\033[m')
 
-input()
+input('Enter to exit')

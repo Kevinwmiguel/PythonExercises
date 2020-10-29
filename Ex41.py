@@ -31,4 +31,4 @@ else:
     print(f'Age: {age}')
     print('Classification: Master')
 
-input()
+input('Enter to exit')

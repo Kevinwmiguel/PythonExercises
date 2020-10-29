@@ -26,4 +26,4 @@ if tot == 2:
 else:
     print('this number is not prime')
 
-input()
+input('Enter to exit')

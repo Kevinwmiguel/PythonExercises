@@ -17,4 +17,4 @@ shuffle(order)
 
 print(order)
 
-input()
+input('Enter to exit')

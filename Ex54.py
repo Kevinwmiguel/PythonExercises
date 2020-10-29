@@ -16,4 +16,4 @@ for c in range(0, 5):
 print(f'heaviest: {hv}')  # Show the highest number entered
 print(f'lighter: {lt}')  # show the lowest number entered
 
-input()
+input('Enter to exit')

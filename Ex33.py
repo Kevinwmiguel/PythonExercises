@@ -29,4 +29,4 @@ print('-' * 30, '\n Easy way')
 print(f'biggest: {max(a, b, c)}')
 print(f'smallest: {min(a, b, c)}')
 
-input()
+input('Enter to exit')

@@ -8,4 +8,4 @@ NS = (S/100) * 15 + S
 
 print(f'the old salary of {S:.2f} with + 15% of increase goes to {NS:.2f}')
 
-input()
+input('Enter to exit')

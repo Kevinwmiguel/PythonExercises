@@ -13,4 +13,4 @@ print(f'The first letter A appears in the position: {name.find("A")+1}')
 
 print(f'The last letter A appears in the position: {name.rfind("A")+1}')
 
-input()
+input('Enter to exit')

@@ -10,4 +10,4 @@ p = n - 1
 print(f'Your seccessor is: {s}')
 print(f'Your predecessor is: {p}')
 
-input()
+input('Enter to exit')

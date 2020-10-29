@@ -11,4 +11,4 @@ for c in range(1, 11):
     print(f'||{c} x {t:2} =\t{t * c}||')
 print('-=' * 8)
 
-input()
+input('Enter to exit')

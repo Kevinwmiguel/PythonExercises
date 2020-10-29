@@ -14,4 +14,4 @@ print('\n')
 # print the total sum numbers
 print(f'The total sum of the numbers is: {s}')
 
-input()
+input('Enter to exit')

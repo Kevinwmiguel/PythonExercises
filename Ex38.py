@@ -17,4 +17,4 @@ elif n2 > n1:
 else:
     print(f'the values {n1} and {n2} are equals: ')
 
-input()
+input('Enter to exit')

@@ -13,4 +13,4 @@ n2 = int(input('Enter the second number: '))
 s = n1 + n2
 print(f'The total is: {s}')
 
-input()
+input('Enter to exit')

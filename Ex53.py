@@ -17,4 +17,4 @@ for c in range(0, 7):
 print(f'The number of oldest people is: {old}')
 print(f'the number of the youngest people is: {young}')
 
-input()
+input('Enter to exit')

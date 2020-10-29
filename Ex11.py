@@ -17,4 +17,4 @@ ink = area / 2
 print(f'Dimension: {w:.2f} height x {h:.2f} width = area {area:.2f}m² ')
 print(f"You'll need {ink:.2f}L of ink")
 
-input()
+input('Enter to exit')

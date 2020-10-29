@@ -8,4 +8,4 @@ if n % 2 == 0:
 else:
     print('Your number is odd')
 
-input()
+input('Enter to exit')

@@ -6,4 +6,4 @@ km = int(input('How many Km has your trip?: '))
 price = km * 0.50 if km <= 200 else km * 0.45
 print(f"The total price payable is: {price:.2f} ")
 
-input()
+input('Enter to exit')

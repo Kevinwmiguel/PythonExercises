@@ -25,4 +25,4 @@ elif op == 3:
 else:
     print('\033[31msorry something went wrong, try again on next time.')
 
-input()
+input('Enter to exit')

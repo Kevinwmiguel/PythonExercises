@@ -11,4 +11,4 @@ else:
 # shows the new salary
 print(f'Your new salary is: {s:.2f}')
 
-input()
+input('Enter to exit')

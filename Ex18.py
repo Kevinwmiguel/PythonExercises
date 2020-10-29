@@ -13,3 +13,5 @@ n = radians(n)
 print(f'The sine is: {sin(n):.2f}')
 print(f'The cosine is: {cos(n):.2f}')
 print(f'The tangent is: {tan(n):.2f}')
+
+input('Enter to exit')

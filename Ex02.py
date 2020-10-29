@@ -7,4 +7,4 @@ n = str(input('Type your name: '))
 
 print(f'Nice to Meet you {n}')
 
-input()
+input('Enter to exit')

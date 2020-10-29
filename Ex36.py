@@ -19,4 +19,4 @@ else:
     print("\033[1;31m the loan was denied !\033[m")
 print('-=' * 13)
 
-input()
+input('Enter to exit')

@@ -10,4 +10,4 @@ if v >= 81:
 else:
     print("Good, you're following the rules. have a nice day!")
 
-input()
+input('Enter to exit')

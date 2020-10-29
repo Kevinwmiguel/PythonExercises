@@ -31,4 +31,4 @@ elif BMI >= 30.0 and BMI == 39.9:
 else:
     print('morbid obesity')
     
-input()
+input('Enter to exit')

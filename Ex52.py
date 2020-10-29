@@ -14,4 +14,4 @@ if p == newph:
 else:
     print('it is not a palindrome')
 
-input()
+input('Enter to exit')

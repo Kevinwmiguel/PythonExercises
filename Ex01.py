@@ -6,4 +6,4 @@ Ex 01 - Create a progrom that print "Hello World"
 print('Hello World!')
 
 #prompts the user to type something to end the program
-input()
+input('Enter to exit')

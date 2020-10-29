@@ -18,10 +18,10 @@ p = float(input("Enter the product's price: "))
 print('-=' * 20)
 
 esc = int(input(f'\t[1] Cash / cash check (\033[36m 10% off \033[m)\n'           # options to the User
-                ' \t[2] cash payment on card (\033[36m 5% off \033[m)\n'
-                ' \t[3] up to 2x on the card (\033[32m normal price \033[m)\n'
-                ' \t[4] up to 3x or more (\033[31m 20% interest \033[m)\n'
-                '\nChoose the payment way: '))
+                f'\t[2] cash payment on card (\033[36m 5% off \033[m)\n'
+                f'\t[3] up to 2x on the card (\033[32m normal price \033[m)\n'
+                f'\t[4] up to 3x or more (\033[31m 20% interest \033[m)\n'
+                f'\nChoose the payment way: '))
 
 while True:  # Block to force the user to choice a right option
     try:
@@ -41,4 +41,4 @@ while True:  # Block to force the user to choice a right option
     except ValueError:
         print(f'did you entered a invalid value')
 
-input()
+input('Enter to exit')

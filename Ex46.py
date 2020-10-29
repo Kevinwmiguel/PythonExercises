@@ -13,4 +13,4 @@ for c in range(2, 51, 2):
     sleep(0.5)
     print(f'{c}..', end='')
 
-input()
+input('Enter to exit')

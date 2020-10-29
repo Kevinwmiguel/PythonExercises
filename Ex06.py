@@ -10,4 +10,4 @@ print(f'the double of {n}: {n * 2:.2f}')
 print(f'the triple {n:}: {n * 3:.2f}')
 print(f'The square root {n}: {n ** (1/2):.2f}')
 
-input()
+input('Enter to exit')

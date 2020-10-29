@@ -13,4 +13,4 @@ for c in range(0, 6):
 # shows the sum
 print(f'A soma total dos n pares é {s}')
 
-input()
+input('Enter to exit')

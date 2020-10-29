@@ -21,4 +21,4 @@ while gg < 1:
 print(f'The total number of attempts was {tt}')
 print('\033[1;32mVERY WELL!\033[m')
 
-input()
+input('Enter to exit')

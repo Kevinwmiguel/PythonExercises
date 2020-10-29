@@ -9,4 +9,4 @@ ca = float(input('Enter the adjacent leg: '))
 
 print(f'The hypotenuse is {hypot(ca,co):.2f}')
 
-input()
+input('Enter to exit')

@@ -26,4 +26,4 @@ elif m >= 7:
 else:
     print('Invalid Note')
 
-input()
+input('Enter to exit')

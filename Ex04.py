@@ -18,4 +18,4 @@ print(f'Is it upper? {Name.upper()}')
 print(f'letter in lower: {Name.lower()}')
 print(f'Capitalize: {Name.capitalize()}')
 
-input()
+input('Enter to exit')

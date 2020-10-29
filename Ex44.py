@@ -53,4 +53,4 @@ elif esc == 1 and pc == 'Paper' or esc == 2 and pc == 'Scissors' or esc == 3 and
 else:
     print('\033[4;34this match finished with a draw. go again! ?\033[m')
 
-input()
+input('Enter to exit')
