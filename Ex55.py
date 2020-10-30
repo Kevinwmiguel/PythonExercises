@@ -5,15 +5,15 @@ Ex 55 - Develop a program that reads the name, age and sex of 4 people. At the e
  - How many women are under 20 years old.
 """
 print('\n')
-# var
+# ----- Var -----
 people = 1
 mean = 0
 young_woman = 0
 h_age = 0
 man = ''
 
-# loop
-while people <= 2:                                              # Loop to create a person and get the name, age and sex.
+# ----- Loop -----
+while people <=2:                       # Loop to create a person and get the name, age and sex.
     print(f'{people}º Person')
     name = input('Name:')
     age = int(input('Age:'))

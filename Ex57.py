@@ -9,7 +9,7 @@ Your program should perform the requested operation in each case.
 
 """
 
-
+# ----- Function Zone ----- 
 def line():
     print('-=' * 10)
 
@@ -20,26 +20,26 @@ def header():
     print('-=' * 14)
 
 
-# var
+# ----- Var Zone -----
 choices = 0
 result = 0
 
-# header
+# ----- Header Zone -----
 header()
 
-# input
+# ----- Input Zone -----
 n1 = int(input('1° Value: '))
 n2 = int(input('2° Value: '))
 
-# loop
+# ----- Loop Zone -----
 while choices != 5:
-    esc = int(input(f'\t[1] Sum \n'
+    esc = int(input(f'\t[1] Sum \n'           # Print a talbe and take the option of the user
                     f'\t[2] Multiply\n'
                     f'\t[3] Highest \n'
                     f'\t[4] New numbers\n '
                     f'\t[5] Exit the program\n'
                     f'Your option: '))
-    if esc == 1:
+    if esc == 1:                               # check the user option and show the result based on that
         result = n1 + n2
         print(f'\033[36mthe sum is: {result}\033[m')
         line()
