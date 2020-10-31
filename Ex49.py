@@ -11,6 +11,6 @@ for c in range(0, 6):
     if number % 2 == 0:
         s += number
 # shows the sum
-print(f'A soma total dos n pares é {s}')
+print(f'The total sum between even numbers is: {s}')
 
 input('Enter to exit')
