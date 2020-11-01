@@ -17,7 +17,7 @@ def line():
 
 def header():
     line()
-    print('BANCO CEV'.center(40))
+    print('KW BANK'.center(40))
     line()
 
 
@@ -68,6 +68,6 @@ if c5 >= 1:
 if c1 >= 1:
     print(emojize(f'\033[30;42mtotal of {c1} bill of 1\033[m :bird:', use_aliases='True'))
 line()
-print('Come Again To The KW BANKS ! Have a Great Day')
+print('Come Again To The KW BANK ! Have a Great Day')
 
 input()
