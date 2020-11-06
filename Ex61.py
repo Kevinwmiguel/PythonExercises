@@ -26,7 +26,7 @@ while s != 'N':
         elif smallest > n:
             smallest = n
     m = m + n
-    s = str(input('Do you want continue? [Y, N]: ')).upper()        # Test if the user want continue
+    s = str(input('Do you want to continue? [Y, N]: ')).upper()        # Test if the user want continue
 
 
 m = m / c       # Calculate the mean

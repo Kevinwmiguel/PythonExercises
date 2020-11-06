@@ -37,7 +37,7 @@ while True:
         current_price = price
         p_name = product_name
     count = count + 1
-    answer = str(input('Do you want continue? [Y/N]: ')).upper()
+    answer = str(input('Do you want to continue? [Y/N]: ')).upper()
     if answer == 'N':
         break
 line()

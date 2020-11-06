@@ -24,7 +24,7 @@ while True:
     print('=' * 15)
 # ----- Option to tell if the loop will happen again -----
     while r not in 'YN':
-        r = str(input('Do you want continue?: [Y/N]')).upper().strip()
+        r = str(input('Do you want to continue?: [Y/N]')).upper().strip()
     if r == 'N':
         break
 # ----- Output -----

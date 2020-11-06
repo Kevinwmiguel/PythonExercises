@@ -19,7 +19,7 @@ while True:
         print('Value was added')
     else:
         print('This value already in list, give another one')
-    r = input('Do you want continue? [Y/N]: ').upper()
+    r = input('Do you want to continue? [Y/N]: ').upper()
     if r in 'N':
         break
 
