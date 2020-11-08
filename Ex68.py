@@ -16,7 +16,7 @@ print(f'You entered the values: {n}')   # print all the tuple
 print(f'The 9 appeared: {n.count(9)} times')  # Count how many times did the number 9 entered
 if 3 in n:  # check if the number 3 was entered
     print(f'The value 3 appeared in: {n.index(3)+1}ª position')  # Check the position of the number 3
-print(f'the even numbers entered was: ', end=' ')
+print(f'the even numbers entered were: ', end=' ')
 for c in n:     # check if n tuple have even numbers and show on the screen
     if c % 2 == 0:
         print(c, end=' ')
