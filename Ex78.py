@@ -1,5 +1,5 @@
 """
-Ex 84 - Make a program that reads the names and weights of several people running on a list at the end show.
+Ex 78 - Make a program that reads the names and weights of several people running on a list at the end show.
 A) How many people were registered
 B) A list with the heaviest people
 C) A list with the lightest people
