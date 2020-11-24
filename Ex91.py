@@ -1,5 +1,5 @@
 """
-Make a program that has a function called counter (), that receives
+Ex 91 - Make a program that has a function called counter (), that receives
 three parameters: start, end and step.
 Your program has to perform three counts using
 the created function:
