@@ -19,9 +19,9 @@ def help_system():
         if var == 'fim':
             break
         sleep(0.5)
-        print('\033[1;30;44m~' * 40)
+        print('\033[1;30;44m~' * 30)
         print('  accessing command manual')
-        print('~' * 40)
+        print('~' * 30)
         sleep(0.5)
         print('\033[7;30;42m')
         help(var)
