@@ -16,7 +16,7 @@ def help_system():
         print(" Help system PyHelp")
         print('~' * 25)
         var = input("\033[mLibrary's function : ")
-        if var == 'fim':
+        if var == 'END':
             break
         sleep(0.5)
         print('\033[1;30;44m~' * 30)
